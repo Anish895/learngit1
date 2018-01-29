@@ -1,1 +1,2 @@
 add new content to file
+new content added by master
